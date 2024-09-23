@@ -226,7 +226,7 @@ In this project, we will also practice transformation operations with:
 
 :pushpin:[How to do](https://github.com/RegiMaria/SPARK_II_performing_basic_operations/tree/main/how_to_do)
 
-:pushpin:[Notebook](https://github.com/RegiMaria/SPARK_II_performing_basic_operations/blob/main/notebook/Spark_basic_op.ipynb0
+:pushpin:[Notebook](https://github.com/RegiMaria/SPARK_II_performing_basic_operations/blob/main/notebook/Spark_basic_op.ipynb)
 
 :pushpin:[Key concepts](https://github.com/RegiMaria/SPARK_II_performing_basic_operations/tree/main/key_concepts_spark)
 
