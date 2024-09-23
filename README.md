@@ -4,19 +4,19 @@
 
 ------------------------------
 
-**OBJETIVO: **Performing operations on SPARK API DataFrames in Databricks platform.
+**OBJETIVO:**Performing operations on SPARK API DataFrames in Databricks platform.
 
 Before starting the preprocessing and transformation stage, there are a few things you need to know about Spark. In this project, we will study about:
 
-:pushpin: Overview Structured SPARK APIs 
+:pushpin: [Overview Structured SPARK APIs](https://github.com/RegiMaria/SPARK_II_performing_basic_operations/tree/main/key_concepts_spark) 
 
-:pushpin:Spark SPARK Escape Character
+:pushpin:[Spark SPARK Escape Character](https://github.com/RegiMaria/SPARK_II_performing_basic_operations/tree/main/key_concepts_spark) 
 
-:pushpin:Medallion Architecture
+:pushpin:[Medallion Architecture](https://github.com/RegiMaria/SPARK_II_performing_basic_operations/tree/main/key_concepts_spark) 
 
-:pushpin:**​Narrow Transformations** and **Wide Transformations** in DataFrames
+:pushpin:[**​Narrow Transformations** and **Wide Transformations** in DataFrames](https://github.com/RegiMaria/SPARK_II_performing_basic_operations/tree/main/key_concepts_spark) 
 
-:pushpin:**Task, Stage and Job** in Apache Spark.
+:pushpin:[**Task, Stage and Job** in Apache Spark](https://github.com/RegiMaria/SPARK_II_performing_basic_operations/tree/main/key_concepts_spark) .
 
 
 
@@ -30,7 +30,7 @@ Before starting the preprocessing and transformation stage, there are a few thin
 
 
 
-**ARCHITECTURE **
+**ARCHITECTURE**
 
 ----------------------------------
 
@@ -48,7 +48,7 @@ In this project we use the [Medallion architecture](https://www.databricks.com/s
 
 -------------------------------------------
 
-- **Data Lake **: DBFS (Databricks File System), which serves as the data lake for storing raw data.
+- **Data Lake**: DBFS (Databricks File System), which serves as the data lake for storing raw data.
 - **Advanced Storage Technology**: Delta Lake, used to transform and manage data.
 
 
@@ -107,7 +107,7 @@ This project involves inspecting the dataset and building steps to fixed issues 
 
 **Examining data**:  it's essential that you know your data!  it's essential that you know your data!
 
-:pushpin:Raw data here
+:pushpin:[Raw data here](https://github.com/RegiMaria/SPARK_II_performing_basic_operations/tree/main/data)
 
 The Dataset exhibits several issues or multiple problems, as we can see.
 
@@ -224,11 +224,11 @@ In this project, we will also practice transformation operations with:
 
 
 
-:pushpin:How to do
+:pushpin:[How to do](https://github.com/RegiMaria/SPARK_II_performing_basic_operations/tree/main/how_to_do)
 
-:pushpin:Notebook
+:pushpin:[Notebook](https://github.com/RegiMaria/SPARK_II_performing_basic_operations/blob/main/notebook/Spark_basic_op.ipynb0
 
-:pushpin:Key concepts
+:pushpin:[Key concepts](https://github.com/RegiMaria/SPARK_II_performing_basic_operations/tree/main/key_concepts_spark)
 
 ---------------------------
 
